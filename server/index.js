@@ -1,3 +1,7 @@
+/*
+winston을 사용해서 로그를 기록해 보세요.
+(https://github.com/winstonjs/winston)
+*/
 const express = require('express')
 
 const app = express()
