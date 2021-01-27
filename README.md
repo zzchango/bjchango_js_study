@@ -91,5 +91,6 @@ type Query {
 } 
 ```
 
-
+- Query 타입은 read 즉 HTTP 메소드로 get에 해당
+- 나머지는 create, update, delete를 Mutation이 담당
 
